@@ -1,4 +1,4 @@
-#CSS pseudo classes
+# CSS pseudo classes
 
 ## Eighth exercise in front-end-milestones/2-the-static-web
 
