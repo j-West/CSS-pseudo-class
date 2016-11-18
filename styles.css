@@ -1,0 +1,14 @@
+.block {
+	display: inline;
+	list-style: none;
+}
+
+.inline {
+	border: 1px solid darkgreen;
+	display: block;
+	margin: 25px;
+}
+
+.n-child :nth-of-type(even) {
+	border: 1px solid blue;
+}
