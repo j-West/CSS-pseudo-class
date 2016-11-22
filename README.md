@@ -1,8 +1,8 @@
 # CSS pseudo classes
 
-## Eighth exercise in front-end-milestones/2-the-static-web
+## Eighth exercise in front-end-milestones/the-static-web
 
-### Instructions
+### Instructions for exercise
 
 For this exercise you can't add any classes or ids
 
